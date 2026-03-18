@@ -1,0 +1,49 @@
+{
+  "generated_at_utc": "2026-03-18T19:30:04",
+  "forecast_date": "2026-03-19",
+  "forecasts": [
+    {
+      "run_timestamp": "2026-03-18T19:30:04",
+      "location_label": "Place of birth",
+      "location_query": "Kushtia, Bangladesh",
+      "resolved_name": "Kushtia",
+      "country": "Bangladesh",
+      "latitude": 23.9028,
+      "longitude": 89.11943,
+      "forecast_date": "2026-03-19",
+      "temperature_2m_max": 31.7,
+      "precipitation_sum": 9.7,
+      "wind_speed_10m_max": 11.8,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "run_timestamp": "2026-03-18T19:30:04",
+      "location_label": "Last residence before Aalborg",
+      "location_query": "Dhaka, Bangladesh",
+      "resolved_name": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.7104,
+      "longitude": 90.40744,
+      "forecast_date": "2026-03-19",
+      "temperature_2m_max": 30.9,
+      "precipitation_sum": 7.3,
+      "wind_speed_10m_max": 8.0,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "run_timestamp": "2026-03-18T19:30:04",
+      "location_label": "Aalborg",
+      "location_query": "Aalborg, Denmark",
+      "resolved_name": "Aalborg",
+      "country": "Denmark",
+      "latitude": 57.048,
+      "longitude": 9.9187,
+      "forecast_date": "2026-03-19",
+      "temperature_2m_max": 11.1,
+      "precipitation_sum": 0.1,
+      "wind_speed_10m_max": 12.6,
+      "timezone": "Europe/Copenhagen"
+    }
+  ],
+  "poem": "**English**\nTomorrow, I'd flee to Aalborg's shore,\nWhere 11.1°C brings a gentle roar,\nA calm escape from Kushtia's 31.7°C heat,\nAnd Dhaka's 30.9°C, with precipitation to beat.\n\n**বাংলা**\nআগামীকাল আমি আলবোর্গে থাকতে চাই,\nযেখানে ১১.১°C তাপমাত্রা একটি সুন্দর দিন নিয়ে আসে,\nকুষ্টিয়ার ৩১.৭°C তাপ ও ঢাকার ৩০.৯°C থেকে মুক্তি পেতে,\nআলবোর্গের শান্ত আবহাওয়াই আমার জন্য সবচেয়ে ভালো।"
+}

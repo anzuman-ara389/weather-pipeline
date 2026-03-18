@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "label": "Place of birth",
+      "query": "Kushtia, Bangladesh"
+    },
+    {
+      "label": "Last residence before Aalborg",
+      "query": "Dhaka, Bangladesh"
+    },
+    {
+      "label": "Aalborg",
+      "query": "Aalborg, Denmark"
+    }
+  ]
+}
