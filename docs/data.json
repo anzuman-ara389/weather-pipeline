@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-03-18T19:30:04",
+  "generated_at_utc": "2026-03-18T20:00:45",
   "forecast_date": "2026-03-19",
   "forecasts": [
     {
-      "run_timestamp": "2026-03-18T19:30:04",
+      "run_timestamp": "2026-03-18T20:00:45",
       "location_label": "Place of birth",
       "location_query": "Kushtia, Bangladesh",
       "resolved_name": "Kushtia",
@@ -17,7 +17,7 @@
       "timezone": "Asia/Dhaka"
     },
     {
-      "run_timestamp": "2026-03-18T19:30:04",
+      "run_timestamp": "2026-03-18T20:00:45",
       "location_label": "Last residence before Aalborg",
       "location_query": "Dhaka, Bangladesh",
       "resolved_name": "Dhaka",
@@ -31,7 +31,7 @@
       "timezone": "Asia/Dhaka"
     },
     {
-      "run_timestamp": "2026-03-18T19:30:04",
+      "run_timestamp": "2026-03-18T20:00:45",
       "location_label": "Aalborg",
       "location_query": "Aalborg, Denmark",
       "resolved_name": "Aalborg",
@@ -39,11 +39,11 @@
       "latitude": 57.048,
       "longitude": 9.9187,
       "forecast_date": "2026-03-19",
-      "temperature_2m_max": 11.1,
+      "temperature_2m_max": 11.0,
       "precipitation_sum": 0.1,
       "wind_speed_10m_max": 12.6,
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "poem": "**English**\nTomorrow, I'd flee to Aalborg's shore,\nWhere 11.1°C brings a gentle roar,\nA calm escape from Kushtia's 31.7°C heat,\nAnd Dhaka's 30.9°C, with precipitation to beat.\n\n**বাংলা**\nআগামীকাল আমি আলবোর্গে থাকতে চাই,\nযেখানে ১১.১°C তাপমাত্রা একটি সুন্দর দিন নিয়ে আসে,\nকুষ্টিয়ার ৩১.৭°C তাপ ও ঢাকার ৩০.৯°C থেকে মুক্তি পেতে,\nআলবোর্গের শান্ত আবহাওয়াই আমার জন্য সবচেয়ে ভালো।"
+  "poem": "**English**\nTomorrow, I'd rather be in Dhaka's gentle breeze,\nwith 30.9°C warmth and 7.3 mm of soothing release.\nKushtia's 31.7°C and 9.7 mm of rain may be too much to bear,\nwhile Aalborg's 11.0°C chill is a far cry from love and care.\n\n**বাংলা**\nআগামীকাল ঢাকার মনোরম বাতাসে থাকতে ইচ্ছে,\n৩০.৯ ডিগ্রি সেলসিয়াস তাপমাত্রা এবং ৭.৩ মিলিমিটার বৃষ্টির শান্ত স্পর্শ।\nকুষ্টিয়ার ৩১.৭ ডিগ্রি সেলসিয়াস এবং ৯.৭ মিলিমিটার বৃষ্টি অনেক বেশি বলে মনে হয়,\nআর অলবোর্গের ১১ ডিগ্রি সেলসিয়াস শীতলতা ভালোবাসা থেকে খুব দূরে।"
 }
