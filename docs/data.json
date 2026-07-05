@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-07-04T20:11:38",
-  "forecast_date": "2026-07-05",
+  "generated_at_utc": "2026-07-05T20:17:54",
+  "forecast_date": "2026-07-06",
   "forecasts": [
     {
-      "run_timestamp": "2026-07-04T20:11:38",
+      "run_timestamp": "2026-07-05T20:17:54",
       "location_label": "Place of birth",
       "location_query": "Kushtia, Bangladesh",
       "resolved_name": "Kushtia",
       "country": "Bangladesh",
       "latitude": 23.9028,
       "longitude": 89.11943,
-      "forecast_date": "2026-07-05",
-      "temperature_2m_max": 32.4,
-      "precipitation_sum": 8.3,
-      "wind_speed_10m_max": 24.5,
+      "forecast_date": "2026-07-06",
+      "temperature_2m_max": 30.9,
+      "precipitation_sum": 31.9,
+      "wind_speed_10m_max": 25.7,
       "timezone": "Asia/Dhaka"
     },
     {
-      "run_timestamp": "2026-07-04T20:11:38",
+      "run_timestamp": "2026-07-05T20:17:54",
       "location_label": "Last residence before Aalborg",
       "location_query": "Dhaka, Bangladesh",
       "resolved_name": "Dhaka",
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-05",
-      "temperature_2m_max": 32.6,
-      "precipitation_sum": 9.1,
-      "wind_speed_10m_max": 20.8,
+      "forecast_date": "2026-07-06",
+      "temperature_2m_max": 31.4,
+      "precipitation_sum": 10.6,
+      "wind_speed_10m_max": 24.1,
       "timezone": "Asia/Dhaka"
     },
     {
-      "run_timestamp": "2026-07-04T20:11:38",
+      "run_timestamp": "2026-07-05T20:17:54",
       "location_label": "Aalborg",
       "location_query": "Aalborg, Denmark",
       "resolved_name": "Aalborg",
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-05",
-      "temperature_2m_max": 19.7,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 30.6,
+      "forecast_date": "2026-07-06",
+      "temperature_2m_max": 17.1,
+      "precipitation_sum": 5.6,
+      "wind_speed_10m_max": 25.9,
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "poem": "**English**\nAs I gaze at forecasts, far and wide,\nKushtia's heat rises, 32.4 degrees high.\nDhaka's not far behind, with 32.6 degrees shine,\nBoth scorching, with rain that's barely divine.\nAalborg, a haven, with 19.7 degrees gentle breeze,\nNo rain in sight, a soothing summer ease.\n\n**বাংলা**\nআগামীকাল সবচেয়ে ভালো লাগবে আলবর্গে,\n১৯.৭ ডিগ্রি সেলসিয়াস হালকা বাতাসে।\nকুষ্টিয়া ও ঢাকার তুলনায় এখানে অনেক ঠাণ্ডা,\nবৃষ্টিহীন আকাশ, মন খুব প্রফুল্ল হবে।"
+  "poem": "**English**\nTomorrow, I'd choose Aalborg's gentle breeze,\n17.1°C, a soothing calm release.\nKushtia's 30.9°C and Dhaka's 31.4°C,\nAre too warm, with precipitation's heavy sway.\nAalborg's 5.6 mm of rain, a gentle touch,\nMakes it the perfect place, to breathe and clutch.\n\n**বাংলা**\nআগামীকাল, আমি আলবর্গের মনোরম বাতাস বেছে নেব,\n১৭.১°সি, একটি শান্ত মুক্তি।\nকুষ্টিয়ার ৩০.৯°সি এবং ঢাকার ৩১.৪°সি,\nখুব গরম, বৃষ্টির ভারী লহরে।\nআলবর্গের ৫.৬ মিমি বৃষ্টি, একটি নম্র স্পর্শ,\nএটিকে নিখুঁত জায়গা করে, শ্বাস নিতে এবং জড়িত হতে।"
 }
