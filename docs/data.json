@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-07T00:42:30",
+  "generated_at_utc": "2026-08-07T19:53:07",
   "forecast_date": "2026-08-08",
   "forecasts": [
     {
-      "run_timestamp": "2026-08-07T00:42:30",
+      "run_timestamp": "2026-08-07T19:53:07",
       "location_label": "Place of birth",
       "location_query": "Kushtia, Bangladesh",
       "resolved_name": "Kushtia",
@@ -11,13 +11,13 @@
       "latitude": 23.9028,
       "longitude": 89.11943,
       "forecast_date": "2026-08-08",
-      "temperature_2m_max": 30.9,
-      "precipitation_sum": 6.9,
-      "wind_speed_10m_max": 16.4,
+      "temperature_2m_max": 30.6,
+      "precipitation_sum": 7.4,
+      "wind_speed_10m_max": 16.5,
       "timezone": "Asia/Dhaka"
     },
     {
-      "run_timestamp": "2026-08-07T00:42:30",
+      "run_timestamp": "2026-08-07T19:53:07",
       "location_label": "Last residence before Aalborg",
       "location_query": "Dhaka, Bangladesh",
       "resolved_name": "Dhaka",
@@ -25,13 +25,13 @@
       "latitude": 23.7104,
       "longitude": 90.40744,
       "forecast_date": "2026-08-08",
-      "temperature_2m_max": 30.8,
-      "precipitation_sum": 17.9,
-      "wind_speed_10m_max": 12.7,
+      "temperature_2m_max": 30.1,
+      "precipitation_sum": 16.8,
+      "wind_speed_10m_max": 12.5,
       "timezone": "Asia/Dhaka"
     },
     {
-      "run_timestamp": "2026-08-07T00:42:30",
+      "run_timestamp": "2026-08-07T19:53:07",
       "location_label": "Aalborg",
       "location_query": "Aalborg, Denmark",
       "resolved_name": "Aalborg",
@@ -41,9 +41,9 @@
       "forecast_date": "2026-08-08",
       "temperature_2m_max": 22.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 22.7,
+      "wind_speed_10m_max": 23.8,
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "poem": "**English**\nTomorrow, I'd choose Aalborg's gentle breeze,\nWith 22.3°C, a pleasant summer ease.\n Compared to Kushtia's 30.9°C heat and rain,\nAnd Dhaka's similar warmth, with more precipitation's strain.\nAalborg's calm and dry, a peaceful place to be,\nNo precipitation forecast, just serenity.\n\n**Bengali**\nআগামীকাল আমি আলবর্গের মনোরম বাতাস বেছে নেব,\n২২.৩°C তাপমাত্রা, একটি সুখদ গ্রীষ্ম। \nকুষ্টিয়ার ৩০.৯°C তাপ ও বৃষ্টি,\nঢাকার অনুরূপ গরম, বর্ষণের সাথে,\nআলবর্গ শান্ত ও শুষ্ক, একটি শান্ত স্থান।"
+  "poem": "**English**\nOn August 8, 2026, three cities await,\nKushtia's warmth touches 30.6 degrees high,\nDhaka's rain pours down, 16.8 mm in the sky.\nAalborg's breeze whispers low, with no rain in sight,\nA gentle 22.3 degrees, a peaceful night.\nTomorrow, I'd choose Aalborg's gentle shore,\nTo escape the heat and rain, and breathe once more.\n\n**বাংলা**\nআগামী দিনে আমি আলবর্গে থাকতে চাই,\nকুষ্টিয়ার গরম ও ঢাকার বৃষ্টি থেকে দূরে,\nআলবর্গের ২২.৩ ডিগ্রি সেলসিয়াস, এক শান্ত আবহাওয়া,\nসেখানে আমি হালকা বাতাসে নিশ্বাস নিতে পারব।"
 }
